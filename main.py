@@ -2,6 +2,7 @@ from src.etl import get_weather_data, transform_weather_data
 import json
 from datetime import datetime
 import os
+import pandas
 
 api_key = "f9a27b6af310dd37bc23b39590f7822f"
 city = input("Enter city name: ")
@@ -21,8 +22,6 @@ for city in cities:
 
 # If we have valid data, append to CSV
 if all_dataframes:
-    from pandas import concat
-
     full_df = concat(all_dataframes, ignore_index=True)
     print("\n Weather Data:")
     print(full_df)
