@@ -1,0 +1,12 @@
+city,country,temperature,humidity,weather,description,wind_speed,timestamp
+Buzau,RO,31.92,26,Clear,clear sky,5.01,2025-06-25 12:02:40
+Bucharest,RO,32.91,27,Clear,clear sky,6.26,2025-06-25 12:02:47
+Stockholm,SE,15.9,80,Clouds,broken clouds,2.06,2025-06-25 12:04:03
+Bucharest,RO,32.91,27,Clear,clear sky,6.26,2025-06-25 12:08:40
+Bucharest,RO,34.02,28,Clear,clear sky,6.17,2025-06-25 12:08:51
+Buzau,RO,31.99,26,Clear,clear sky,5.01,2025-06-25 12:08:51
+Bacau,RO,30.03,35,Clouds,few clouds,4.02,2025-06-25 12:09:13
+Venice,IT,31.33,50,Clouds,scattered clouds,4.02,2025-06-25 12:23:27
+Bucharest,RO,34.21,28,Clear,clear sky,4.12,2025-06-25 12:25:15
+Bucharest,RO,34.21,28,Clear,clear sky,4.12,2025-06-25 12:25:41
+Bucharest,RO,34.21,28,Clear,clear sky,4.12,2025-06-25 12:26:33
